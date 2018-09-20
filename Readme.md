@@ -12,7 +12,7 @@ Different programming styles in different languages are developed:
 
 * imperative solution 
 * Functional solution
-* Functional solution with function compositin
+* Functional solution with function composition
 
 **Scala** 
 
