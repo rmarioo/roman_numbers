@@ -4,7 +4,8 @@ The purpouse is to translate Arabic to Roman numbers
   
 Examples:  
 `2 -> II`  
-`9 -> IX`
+`9 -> IX`  
+`911 -> CMXI`
 
 Different programming styles in different languages are developed:
 
