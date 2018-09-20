@@ -1,6 +1,6 @@
 # Roman numbers kata
 
-The purpouse is to translate from decimal to Roman numbers  
+The purpouse is to translate Arabic to Roman numbers  
   
 Examples:  
 `2 -> II`  
